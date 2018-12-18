@@ -2,7 +2,7 @@
 This repository contains all my C learning programs.
 
 Hello guys! I'm Vincent who is a student of University of Electronic Science and Technology of China(UESTC).
-And I'm major in Software Engineering for know.
+And I'm major in Software Engineering now.
 I will upload the answers of the C programming experiments and other exercises in the repository.
 If you need it, just take it! 
 If you find the places that can be improved, please tell me and I would appreciate your instruction.
